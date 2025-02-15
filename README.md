@@ -1,4 +1,4 @@
-# Stenography (Image-Based Text Encryption using OpenCV)
+# Steganography (Image-Based Text Encryption using OpenCV)
 
 This project allows you to hide a secret message inside an image using pixel manipulation with OpenCV. It also provides an option to decrypt the hidden message using a passcode.
 
